@@ -1,0 +1,23 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Just a challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-reis-code/CodeChallenge.git"
+  },
+  "author": "Gabriel Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-reis-code/CodeChallenge/issues"
+  },
+  "homepage": "https://github.com/gabriel-reis-code/CodeChallenge#readme",
+  "engines": {
+    "npm": ">=6.14.4",
+    "node": ">=10.19.0"
+  }
+}
